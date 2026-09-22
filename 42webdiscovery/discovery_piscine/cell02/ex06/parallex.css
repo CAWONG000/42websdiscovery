@@ -1,0 +1,20 @@
+.parallax {
+  background-image: url("3.jpg");
+
+  min-height: 100px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.divfront
+{
+  height:100px;
+  background-color:red;
+  font-size:36px 
+}
+
+ul
+{display: flex; list-style-type: none;}

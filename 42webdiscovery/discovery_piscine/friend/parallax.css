@@ -1,0 +1,62 @@
+body, html {
+	/* Make the body take up the full height of the screen */
+	height: 100%;
+	margin: 0;
+	line-height: 1.8;
+	font-size: 15px; 
+	font-family: sans-serif;
+}
+
+#cloud {
+	background-image: url("1.jpg");
+}
+
+#Tifa {
+	background-image: url("2.jpg");
+}
+
+#Aerith {
+	background-image: url("3.jpeg");
+}
+
+.parallax {
+	/* Full height */
+	height: 100%;
+
+	position: relative;
+	opacity: 0.65;
+
+	/* Create the parallax scrolling effect */
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.caption {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	top: 50%;
+	text-align: center;
+	color: #000;
+}
+
+.caption-label {
+	background-color: ;
+	color: #fff;
+	padding: 18px;
+	font-size: 25px;
+	letter-spacing: 10px;
+}
+
+.black-block {
+	color: white;
+	background-color: black;
+	padding: 50px 80px;
+	text-align: justify;
+}
+
+.black-block h3 {
+	text-align: center;
+}

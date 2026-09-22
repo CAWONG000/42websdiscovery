@@ -1,0 +1,30 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table
+{
+    width: 100%;
+    color: wheat;
+}
+tr
+{
+    height:1000px;
+    text-align: center;
+
+}
+.c1
+{
+    background-color: #3dbf90;
+}
+.c2
+{
+    background-color: #7d27b3;
+}
+
+
+body
+{
+    margin: 0%;
+    padding: 0%;
+}

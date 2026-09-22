@@ -1,0 +1,19 @@
+button
+{
+    display: block;
+    color:black;
+    background-color:white;
+    padding: 20px 40px;
+    margin-top: 42vh;
+    /*top: 50%;
+    /*line-height: 400%;*/
+}
+
+button:hover
+{
+    display: block;
+    color:white;
+    background-color: black;
+    padding: 20px 50px;
+    border-color: white;
+}

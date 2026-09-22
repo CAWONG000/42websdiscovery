@@ -1,0 +1,21 @@
+table, th, td
+		{
+			border: 1px solid black;
+		}
+		td
+		{
+			height: 100px;
+			color: white;
+		}
+		.tseoh 
+		{
+			background-color: black;
+		}
+		.c2
+		{
+			background-color: gray;
+		}
+		.cawong
+		{
+			color: red;
+		}
